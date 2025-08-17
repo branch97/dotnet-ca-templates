@@ -1,2 +1,1 @@
-# dotnet-ca-templates
-.NET Clean Architecture Templates
+# .NET Clean Architecture Templates
